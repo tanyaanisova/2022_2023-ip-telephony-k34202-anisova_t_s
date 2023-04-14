@@ -8,7 +8,7 @@
 > Date of create: 20.03.2023<br/>
 > Date of finished: <br/>
 # Описание
-Базовая настройка IP-телефонов в среде Сisco Packet Tracer.
+Конфигурация VoIP в среде Сisco Packet Tracer.
 
 # Цель работы
 Иизучить построение сети IP-телефонии с помощью маршрутизатора Cisco 2811, коммутатора Cisco catalyst 3560 и IP телефонов Cisco 7960.
